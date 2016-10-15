@@ -11,6 +11,7 @@ Segera setelah ini anda dapat segera menggunakan layanan Book Sharing untuk memi
 <p>
 Tuhan memberkati!
 </p>
+<br>
 <p>
 Salam hangat,
 </p>

@@ -3,10 +3,10 @@ Halo {{first_name}},
 </p>
 
 <p>
-{{sender_first_name}} {{sender_last_name}} sudah membuat buku <i>{{title}}</i>.
+{{sender_first_name}} {{sender_last_name}} baru saja menambahkan buku <i>{{title}}</i>.
 Mohon lihat akun anda di situs <a href=’http://booksharing.immanuel-berlin.de’>Book Sharing</a> untuk menerima atau menolak buku tersebut.
 </p>
-
+<br>
 <p>
 Terima kasih!
 </p>

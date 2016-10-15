@@ -8,6 +8,7 @@ Buku <i>{{title}}</i> sangat disayangkan tidak dapat dipinjamkan dengan alasan b
 <p>
 Apabila ada pertanyaan maupun hal-hal yang kurang jelas silakan menghubungi kami melalui email komisiperpustakaan@immanuel-berlin.de.
 </p>
+<br>
 <p>
 Salam hangat,
 </p>

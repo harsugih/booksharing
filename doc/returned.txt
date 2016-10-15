@@ -10,6 +10,7 @@ Terima kasih telah menggunakan layanan Book Sharing!
 <p>
 Tuhan memberkati!
 </p>
+<br>
 <p>
 Salam hangat,
 </p>

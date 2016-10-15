@@ -6,11 +6,29 @@ Halo {{first_name}},
 Silakan menghubungi pemilik buku melalui {{sender_email}} / {{sender_phone}} untuk menerima buku tersebut.
 </p>
 <p>
+Apakah yang perlu dan jangan dilakukan?<br/>
+<br/>
+Perlu:<br/>
+- Periksa kondisi buku ketika menerima untuk mencegah kesalahpahaman di kemudian waktu.<br/>
+- Jaga kondisi buku agar tetap seperti ketika menerimanya<br/>
+- Menikmati membaca buku tersebut :)<br/>
+<br/>
+Jangan:<br/>
+- Menandai buku dengan apa pun juga<br/>
+- Melipat buku atau halamannya<br/>
+- Lupa mengembalikan<br/><br/>
+</p>
+<p>
+Apakah ada jangka waktu peminjaman yang baku?<br/>
+&#61 Tidak, karena Book Sharing berfungsi seolah anda meminjam buku dari seorang teman. Walau demikian pemilik buku sudah menetapkan prakiraan waktu (reading time) yang dibutuhkan untuk menyelesaikan buku tersebut, dan kami menyarankan anda untuk memperhatikan waktu baca tersebut. Apabila anda membutuhkan waktu lebih untuk menyelesaikannya, silakan tanyakan pada pemilik buku apakah dia bersedia untuk meminjamkannya lebih lama - tetapi mohon diperhatikan bahwa ada kemungkinan orang lain juga ingin meminjamnya.
+</p>
+<p>
 Apabila ada kesulitan, silahkan hubungi kami melalui email komisiperpustakaan@immanuel-berlin.de.
 </p>
 <p>
 Tuhan memberkati!
 </p>
+<br>
 <p>
 Salam hangat,
 </p>

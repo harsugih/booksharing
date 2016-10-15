@@ -12,6 +12,7 @@ Terima kasih!
 <p>
 Salam hangat,
 </p>
+<br>
 <p>
 Komisi Perpustakaan FEGIB
 <p>

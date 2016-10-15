@@ -9,7 +9,7 @@ kami sudah memberitahu pemilik buku <i>{{title}}</i> bahwa anda tertarik untuk m
 <p>
 Tuhan memberkati!
 </p>
-
+<br>
 <p>
 Salam hangat,
 </p>

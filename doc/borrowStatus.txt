@@ -2,17 +2,22 @@
 Halo {{first_name}},
 </p>
 <p>
-kami ingin mengingatkan bahwa buku <i>{{title}}</i> akan segera habis masa pinjamnya.
-Jangan lupa untuk membuat janji dengan pemilik buku untuk mengembalikan buku.
+beberapa waktu lalu anda meminjam buku <i>{{title}}</i> dari {{sender_first_name}} {{sender_last_name}}. Melalui email ini, kami ingin mengingatkan agar tidak lupa mengembalikan buku tersebut.
 </p>
 <p>
-Apabila buku tersebut belum selesai anda baca, silakan menghubungi pemilik buku untuk menanyakan apakah ada kemungkinan untuk memperpanjang waktu peminjaman buku.
+Apabila anda masih membutuhkan waktu untuk menyelesaikannya, silakan hubungi pemilik buku untuk menanyakan kemungkinan untuk memperpanjang waktu peminjamannya.
 </p>
 <p>
+{{sender_first_name}} {{sender_last_name}} dapat dihubungi melalui:<br>
+- {{sender_email}}<br>
+- {{sender_phone}}<br>
+</p>
 
+<p>
 Terima kasih!
 </p>
 <p>
+<br>
 Salam hangat,
 </p>
 <p>
